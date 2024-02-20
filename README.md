@@ -1,0 +1,1 @@
+# CNNY-marignaSigns-OpenCV-sign-language-detector--AI-mode
