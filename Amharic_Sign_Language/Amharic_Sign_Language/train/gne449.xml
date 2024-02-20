@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gne</folder>
+	<filename>gne449.jpg</filename>
+	<path>D:\AASTU\EthSL_2_Text_Translation\EthSL_Hand_recognition__Juniour_RGB\train\gne\gne\gne449.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>182</ymin>
+			<xmax>569</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>

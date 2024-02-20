@@ -1,0 +1,26 @@
+<annotation>
+	<folder>le</folder>
+	<filename>Le525.jpg</filename>
+	<path>D:\AASTU\EthSL_2_Text_Translation\EthSL_Hand_recognition__Juniour_RGB\train\Annotated_Last\le\Le525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>le</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>290</ymin>
+			<xmax>538</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

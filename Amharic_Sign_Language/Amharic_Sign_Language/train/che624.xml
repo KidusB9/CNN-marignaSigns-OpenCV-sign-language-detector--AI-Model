@@ -1,0 +1,26 @@
+<annotation>
+	<folder>che</folder>
+	<filename>che624.jpg</filename>
+	<path>D:\AASTU\EthSL_2_Text_Translation\EthSL_Hand_recognition__Juniour_RGB\train\che\che\che624.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>che</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>204</ymin>
+			<xmax>665</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

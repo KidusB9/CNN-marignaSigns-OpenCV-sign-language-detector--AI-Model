@@ -1,0 +1,26 @@
+<annotation>
+	<folder>qe</folder>
+	<filename>qe1137.jpg</filename>
+	<path>D:\AASTU\EthSL_2_Text_Translation\EthSL_Hand_recognition__Juniour_RGB\train\Annotated_Last\qe\qe1137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>244</ymin>
+			<xmax>582</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

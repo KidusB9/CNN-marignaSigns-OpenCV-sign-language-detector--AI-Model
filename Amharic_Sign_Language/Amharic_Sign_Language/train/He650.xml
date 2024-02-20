@@ -1,0 +1,26 @@
+<annotation>
+	<folder>he</folder>
+	<filename>He650.jpg</filename>
+	<path>D:\AASTU\EthSL_2_Text_Translation\EthSL_Hand_recognition__Juniour_RGB\train\he\he\He650.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>259</ymin>
+			<xmax>565</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>
